@@ -5,7 +5,7 @@ import numpy as np
 
 st.set_page_config(page_title="Simple Financial Planner")
 
-st.title("Simple Financial Planner is cool")
+st.title("Simple Financial Planner for Students")
 st.subheader("Plan your retirement savings with a basic income and expense tracker.")
 
 # Section 1: Monthly Income
